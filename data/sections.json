@@ -1,0 +1,67 @@
+[
+    {
+        "id": "poligrafiya",
+        "title": "Поліграфія",
+        "pdf": "pdf/poligrafiya.pdf"
+    },
+    {
+        "id": "kalendars",
+        "title": "Календарі",
+        "pdf": "pdf/kalendars.pdf"
+    },
+    {
+        "id": "katalogs",
+        "title": "Каталоги, презентації",
+        "pdf": "pdf/katalogs.pdf"
+    },
+    {
+        "id": "naruzhnaya-reklama",
+        "title": "Зовнішня реклама",
+        "pdf": "pdf/naruzhnaya-reklama.pdf"
+    },
+    {
+        "id": "vystavki",
+        "title": "Оформлення виставок",
+        "pdf": "pdf/vystavki.pdf"
+    },
+    {
+        "id": "interior",
+        "title": "Оформление інтер'єрів",
+        "pdf": "pdf/interior.pdf"
+    },
+    {
+        "id": "branding-auto",
+        "title": "Брендування авто",
+        "pdf": "pdf/branding-auto.pdf"
+    },
+    {
+        "id": "logos",
+        "title": "Логотипи та фірмовий стиль",
+        "pdf": "pdf/logos.pdf"
+    },
+    {
+        "id": "vector1",
+        "title": "Векторизація (логотипи, герби, гравюры)",
+        "pdf": "pdf/vector1.pdf"
+    },
+    {
+        "id": "vector2",
+        "title": "Векторизація (екслібриси, портрети, тварини)",
+        "pdf": "pdf/vector2.pdf"
+    },
+    {
+        "id": "vector3",
+        "title": "Векторизація (техніка, архітектура, ікони)",
+        "pdf": "pdf/vector3.pdf"
+    },
+    {
+        "id": "illustration",
+        "title": "Ілюстрації",
+        "pdf": "pdf/illustration.pdf"
+    },
+    {
+        "id": "marketplaces",
+        "title": "Маркетплейси",
+        "pdf": "pdf/marketplaces.pdf"
+    }
+]
